@@ -17,23 +17,23 @@ organizations:
 bio: My research interests include diversity, discrimination, and behavior change.
 
 # Interests to show in About widget
-interests:
-- Diversity
-- Discrimination
-- Behavior Change
+# interests:
+# - Diversity
+# - Discrimination
+# - Behavior Change
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a fourth-year PhD student in the Decision Processes group in the Operations, Information, and Decisions department at The Wharton School, University of Pennsylvania. **I am on the 2022-2023 academic job market.**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My primary research interest is diversity and inclusion in organizations. Within this space, I focus on understanding the factors that contribute to a lack of gender and racial diversity in organizations, as well as designing interventions to help organizations become more diverse. My secondary research interest is using large-scale field experiments to test nudges and interventions to promote behavior change. Prior to my doctoral studies at Wharton, I graduated summa cum laude from Princeton University with a BA in Psychology, and minors in Computer Science and Cognitive Science.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
