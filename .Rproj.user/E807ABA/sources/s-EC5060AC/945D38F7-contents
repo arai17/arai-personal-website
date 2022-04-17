@@ -74,4 +74,4 @@ I am a fourth-year PhD student in the Decision Processes group in the Operations
 
 My primary research interest is diversity and inclusion in organizations. Within this space, I focus on understanding the factors that contribute to a lack of gender and racial diversity in organizations, as well as designing interventions to help organizations become more diverse. My secondary research interest is using large-scale field experiments to test nudges and interventions to promote behavior change. Prior to my doctoral studies at Wharton, I graduated summa cum laude from Princeton University with a BA in Psychology, and minors in Computer Science and Cognitive Science.
 
-{{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
