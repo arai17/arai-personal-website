@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 ## remove for now -- definitely want to bring this one back
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 90
