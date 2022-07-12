@@ -1,9 +1,9 @@
 {
-    "path" : "~/Documents/GitHub/arai-personal-website/content/authors/admin",
-    "sortOrder" : [
+    "path": "~/Documents/GitHub/arai-personal-website/content/publication/subgoals",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
