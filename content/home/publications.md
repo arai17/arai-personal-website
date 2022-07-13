@@ -34,6 +34,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
+  ## uncomment to add cite button back
   #view: citation
   columns: '2'
 ---
