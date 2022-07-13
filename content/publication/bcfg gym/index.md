@@ -3,9 +3,46 @@ title: "Megastudies improve the impact of applied behavioural science"
 authors:
 - Katherine Milkman
 - Dena Gromet
-- [...test]
+- Hung Ho
+- Joseph Kay
+- Timothy Lee
+- Pepi Pandiloski
+- Yeji Park
 - admin
-- [...]
+- Max Bazerman
+- John Beshears
+- Lauri Bonacorsi
+- Colin Camerer
+- Edward Chang
+- Gretchen Chapman
+- Robert Cialdini
+- Hengchen Dai
+- Lauren Eskreis-Winkler
+- Ayelet Fishbach
+- James Gross
+- Samantha Horn
+- Alexa Hubbard
+- Steven Jones
+- Dean Karlan
+- Tim Kautz
+- Erika Kirgios
+- Joowon Klusowski
+- Ariella Kristal
+- Rahul Ladhania
+- George Loewenstein
+- Jens Ludwig
+- Barbara Mellers
+- Sendhil Mullainathan
+- Silvia Saccardo
+- Jann Spiess
+- Gaurav Suri
+- Joachim Talloen
+- Jamie Taxer
+- Yaacov Trope
+- Lyle Ungar
+- Kevin Volpp
+- Ashley Whillans
+- Jonathan Zinman
 - Angela Duckworth
 
 date: "2021-12-01T00:00:00Z"
