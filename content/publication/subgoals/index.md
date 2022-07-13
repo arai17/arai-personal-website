@@ -7,6 +7,8 @@ authors:
 - Katherine Milkman
 - Angela Duckworth
 
+date: "2022-07-01T00:00:00Z"
+
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -27,7 +29,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
