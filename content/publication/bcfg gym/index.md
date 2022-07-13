@@ -3,7 +3,7 @@ title: "Megastudies improve the impact of applied behavioural science"
 authors:
 - Katherine Milkman
 - Dena Gromet
-- [...]
+- [...test]
 - admin
 - [...]
 - Angela Duckworth
