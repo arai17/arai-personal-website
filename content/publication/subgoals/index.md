@@ -1,26 +1,16 @@
 ---
-title: "A Field Experiment on Subgoal Framing to Boost Volunteering: The Tradeoff between Goal Granularity and Flexibility"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+title: "An example journal article"
 authors:
 - admin
-- Marissa Sharif
-- Edward Chang
-- Katherine Milkman
-- Angela Duckworth
-
-# Author notes (optional)
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
-
-#date: "2013-07-01T00:00:00Z"
+- Robert Ford
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,26 +19,23 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Journal of Applied Psychology*
-publication_short: In *JAP*
+publication: "*Journal of Source Themes, 1*(1)"
+publication_short: ""
 
-abstract: Research suggests that breaking overarching goals into more granular subgoals is beneficial for goal progress. However, making goals more granular often involves reducing the flexibility provided to complete them, and recent work shows that flexibility can also be beneficial for goal pursuit. We examine this tradeoff between granularity and flexibility in subgoals in a pre- registered, large-scale field experiment (N = 9,108) conducted over several months with volunteers at a national crisis counseling organization. A pre-registered vignette pilot study (N = 900) suggests that the subgoal framing tested in the field could benefit goal-seekers by bolstering their self-efficacy and goal commitment, and by discouraging procrastination. Our field experiment finds that reframing an overarching goal of 200 hours of volunteering into more granular subgoals (either 4 hours of volunteering every week or 8 hours every two weeks) increased hours volunteered by 8\% over a 12-week period. Further, increasing subgoal flexibility by breaking an annual 200-hour volunteering goal into a subgoal of volunteering 8 hours every two weeks, rather than 4 hours every week, led to more durable benefits.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags:
+- Source Themes
+featured: false
 
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
+# - name: ""
+#   url: ""
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -58,31 +45,32 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ""
-#  preview_only: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects:
-#- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+slides: example
 ---
 
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import #publication metadata into their reference management software.
-#{{% /callout %}}
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
 
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
