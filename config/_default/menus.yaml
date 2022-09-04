@@ -23,7 +23,8 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/cv.pdf
+    #url: uploads/cv.pdf
+    url: {{< staticref "uploads/cv.pdf" "newtab" >}}uploads/cv.pdf{{< /staticref >}}
     weight: 60
 
   - name: Contact
