@@ -35,6 +35,6 @@ content:
 design:
   # Choose a view for the listings:
   ## uncomment to add cite button back
-  view: compact
+  view: list
   columns: '2'
 ---
