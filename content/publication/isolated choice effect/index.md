@@ -16,7 +16,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Management Science*"
-publication_short: "*Mgmt Sci*"
+publication_short: "*(Management Science)*"
 
 abstract: We highlight a feature of personnel selection decisions that can influence the gender diversity of groups and teams. Specifically, we show that people are less likely to choose candidates whose gender would increase group diversity when making personnel selections in isolation (i.e., when they are responsible for selecting a single group member) than when making collections of choices (i.e., when they are responsible for selecting multiple group members). We call this the *isolated choice effect*. Across six preregistered experiments (*n* = 3,509), we demonstrate that the isolated choice effect has important consequences for group diversity. When making sets of hiring and selection decisions (as opposed to making a single hire), people construct more gender-diverse groups. Mediation and moderation studies suggest that people do not attend as much to diversity when making isolated selection choices, which drives this effect.
 
