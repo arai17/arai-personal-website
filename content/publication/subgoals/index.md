@@ -26,7 +26,7 @@ tags:
 featured: false
 
 # links:
-- name: "TEST"
+# - name: ""
 #   url: ""
 url_pdf: ''
 url_code: ''
