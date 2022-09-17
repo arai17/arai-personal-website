@@ -1,5 +1,5 @@
 ---
-title: "A Field Experiment on Subgoal Framing to Boost Volunteering: The Tradeoff between Goal Granularity and Flexibility"
+title: "A Field Experiment on Subgoal Framing to Boost Volunteering: The Tradeoff between Goal Granularity and Flexibility *(Journal of Applied Psychology, 2022)*"
 authors:
 - admin
 - Marissa Sharif
