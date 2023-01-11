@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a fifth-year PhD student in the Decision Processes group of the Operations, Information, and Decisions department at the Wharton School, University of Pennsylvania. **I am on the 2022-2023 academic job market.**
+I am a fifth-year PhD student in the Decision Processes group of the Operations, Information, and Decisions department at the Wharton School, University of Pennsylvania. In the Fall of 2023, I am joining the Management & Organization Department at the University of Maryland's Robert H. Smith School of Business as an Assistant Professor
 
 My research is primarily focused on using insights from the judgment and decision-making literature to better understand what drives decisions to diversify organizations. Within this space, I examine how people’s perceptions of group diversity affect personnel selection decisions and influence how diverse organizations become. I also explore how the salience of diversity influences people’s decisions and leverage this knowledge to design interventions for organizations to increase their gender and racial diversity. Finally, my secondary research interest is using large-scale field experiments to test interventions to promote positive behavior change in organizations.
 
