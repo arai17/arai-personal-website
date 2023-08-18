@@ -6,11 +6,11 @@ title: Aneesh Rai
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate, Operations, Information, and Decisions
+role: Assistant Professor, Management & Organization
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The Wharton School, University of Pennsylvania
+- name: University of Maryland, Robert H. Smith School of Business
 #url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,10 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a fifth-year PhD student in the Decision Processes group of the Operations, Information, and Decisions department at the Wharton School, University of Pennsylvania. In the Fall of 2023, I am joining the Management & Organization Department at the University of Maryland's Robert H. Smith School of Business as an Assistant Professor.
+I am an Assistant Professor of Management & Organization at the University of Maryland's Robert H. Smith School of Business. I received my PhD in Operations, Information, and Decisions from the Wharton School of the University of Pennsylvania.
 
 My research is primarily focused on using insights from the judgment and decision-making literature to better understand what drives decisions to diversify organizations. Within this space, I examine how people’s perceptions of group diversity affect personnel selection decisions and influence how diverse organizations become. I also explore how the salience of diversity influences people’s decisions and leverage this knowledge to design interventions for organizations to increase their gender and racial diversity. Finally, my secondary research interest is using large-scale field experiments to test interventions to promote positive behavior change in organizations.
-
-Prior to my doctoral studies at Wharton, I graduated summa cum laude from Princeton University with a BA in Psychology, and minors in Computer Science and Cognitive Science.
 
 {{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
