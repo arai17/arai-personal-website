@@ -16,5 +16,10 @@ title: Company Partnerships
 subtitle: ''
 
 content:
+  # Page type to display. E.g. project.
+  page_type: project
+
   test
+
+  
 ---
