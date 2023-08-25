@@ -7,8 +7,6 @@ weight: 90
 ## remove
 active: true
 
-type: landing
-
 sections:
   - block: markdown
     content:
