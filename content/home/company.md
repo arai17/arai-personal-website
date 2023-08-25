@@ -1,6 +1,8 @@
 ---
 title: Company Partnerships
-text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+text: tester
+design:
+    columns: '2'
 
 # Order that this section appears on the page.
 weight: 90
@@ -9,7 +11,7 @@ weight: 90
 active: true
 
 sections:
-  - block: markdown
+    block: markdown
     content:
       title: My title
       subtitle: My subtitle
