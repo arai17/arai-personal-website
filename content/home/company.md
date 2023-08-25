@@ -15,6 +15,9 @@ weight: 90
 title: Company Partnerships
 subtitle:
 
+content:
+  test
+
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
