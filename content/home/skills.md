@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 ## remove
-active: false
+active: true
 
 title: Skills
 subtitle:
