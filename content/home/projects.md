@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 ## set to false to remove section from website
-active: true
+active: false
 
 # Order that this section appears on the page.
 weight: 90
